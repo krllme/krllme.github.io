@@ -680,7 +680,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .fh5co-social li a:hover, .fh5co-social li a:active, .fh5co-social li a:focus {
   outline: none;
   text-decoration: none;
-  color: #7ac143;
+  color: #000;
 }
 
 #map {
