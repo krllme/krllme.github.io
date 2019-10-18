@@ -168,7 +168,7 @@ figure figcaption {
   transition: 0.3s;
   padding: 10px 10px;
   letter-spacing: .2em;
-  font-family: "Merriweather", Times, serif;
+  font-family: "Roboto", Arial, sans-serif;
 }
 #fh5co-aside #fh5co-main-menu ul li a:after {
   content: "";
@@ -212,6 +212,7 @@ figure figcaption {
   -ms-transform: scaleX(1);
   -o-transform: scaleX(1);
   transform: scaleX(1);
+  
 }
 #fh5co-aside .fh5co-footer {
   position: absolute;
