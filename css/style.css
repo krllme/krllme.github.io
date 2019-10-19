@@ -168,7 +168,7 @@ figure figcaption {
   transition: 0.3s;
   padding: 8px 8px;
   letter-spacing: .2em;
-  font-family: "Roboto", Arial, sans-serif;
+  font-family: Futura, Trebuchet MS, Arial, sans-serif;
 }
 #fh5co-aside #fh5co-main-menu ul li a:after {
   content: "";
