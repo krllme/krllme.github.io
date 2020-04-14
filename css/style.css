@@ -59,7 +59,7 @@ h7 {
 }
 
 figure {
-  margin-bottom: em;
+  margin-bottom: -2em;
   float: left;
   width: 100%;
 }
