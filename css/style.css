@@ -64,9 +64,9 @@ figure {
   width: 100%;
 }
 figure figcaption {
-  font-size: 16px;
+  font-size: 12px;
   width: 80%;
-  margin: 15px auto 10px auto;
+  margin: 0px auto 10px auto;
   color: #b3b3b3;
   font-style: italic;
   font-family: "Roboto", Arial, sans-serif;
