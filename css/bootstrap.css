@@ -369,6 +369,8 @@ img {
   display: block;
   max-width: 100%;
   height: auto;
+  margin-top: .5em;
+  margin-bottom: .5em:
 }
 
 .img-rounded {
